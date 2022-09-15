@@ -1,0 +1,17 @@
+*.DS_Store
+*.swp
+
+### PyCharm
+.idea/
+
+### Python
+venv
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+
+### Project specifics
+bin/
+.env
+build.zip
